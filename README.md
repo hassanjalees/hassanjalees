@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hassanjalees
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Data Scientists
+- 💞️ I’m looking to collaborate with Data Scientists and MS Excel Data Analytics
 - 📫 How to reach me https://www.linkedin.com/in/hassan-jalees-0468b9a/
 - 00923212998323
 
